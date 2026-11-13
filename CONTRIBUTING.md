@@ -16,3 +16,4 @@ Read the [research method](docs/research-method.md) and [publication standards](
 - Keep detailed security specifications and threat scenarios in their dedicated repositories.
 
 Use the [research-note template](templates/research-note.md) for a new note. A pull request should explain the change, supporting evidence, and any effect on existing conclusions.
+

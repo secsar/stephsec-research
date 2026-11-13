@@ -32,3 +32,4 @@ Do not claim that a planned review or unexecuted test supplies evidence. Label i
 ## Corrections
 
 Record substantive corrections and their effect on the analysis. A later edit does not erase earlier Git history; sensitive-content incidents require separate handling.
+

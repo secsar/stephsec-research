@@ -69,3 +69,4 @@ Main limitation: an explicit method does not eliminate judgment or compensate fo
 ## Progression
 
 For each study: define scope, publish a protocol, collect permitted sources, record decisions, analyze, state limitations, and publish a versioned note. A change to the question or method should be documented rather than hidden.
+

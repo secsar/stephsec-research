@@ -78,3 +78,4 @@ Do not rank organizations or infer that a poorly documented control is ineffecti
 Potential outputs: a source register, a claim–evidence table with permitted excerpts or paraphrases, and a narrative synthesis.
 
 No sources have been screened, no counts computed, and no findings established. The protocol itself contains no empirical result. Record amendments and dates before presenting any completed analysis.
+
