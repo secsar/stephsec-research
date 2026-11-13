@@ -1,9 +1,9 @@
 # StephSec Research
-### Cybersecurity assurance • Cyberwarfare • Cybercrime • Intelligence
+### Cybersecurity • AI security • Intelligence • Governance • National security
 
 The public research workspace of **Stéphane Ikoué**: research questions, executable demonstrations, study protocols, and source-grounded analysis connecting cybersecurity to national security.
 
-[StephSec](https://stephsec.com) · [Research agenda](research/agenda.md) · [Current landscape](research/landscape-2026-11.md) · [Platform direction](platform/README.md)
+[StephSec](https://stephsec.com) · [Research agenda](research/agenda.md) · [Connected research map](research/map.md) · [Current landscape](research/landscape-2026-11.md)
 
 ## Featured work: Mission Assurance Workbench
 
@@ -32,18 +32,32 @@ The fixture includes English and French descriptions. This demonstrates an evide
 | [Assurance evidence review](protocols/assurance-evidence-review.md) | Document-review inclusion rules and claim–evidence analysis plan | Proposed study |
 | [Source notes](docs/source-notes.md) | Verified upstream identity, version, licensing boundaries, and source limitations | Inspection record |
 
-## Six research interests, one coherent direction
+## An evolving, connected research program
 
-| Area | Research direction |
-| --- | --- |
-| Cybersecurity assurance | Trace security claims to evidence and distinguish tested behavior from unsupported confidence |
-| Cyberwarfare | Study authorization, uncertainty, and civilian-service continuity in defensive exercises |
-| Cyber military selective service | Investigate cyber workforce readiness, demonstrated competencies, governance, and safeguards |
-| Cybercrime and international cooperation | Examine evidence handoffs, provenance, and cross-organization coordination |
-| Botnets in African contexts | Study measurement coverage, regional context, language, and defensive triage |
-| Intelligence and national security | Separate observations, source dependencies, alternative explanations, and judgments |
+| Connected area | Research direction | Agenda position |
+| --- | --- | --- |
+| Cybersecurity assurance | Trace security claims to evidence and distinguish tested behavior from unsupported confidence | Established interest |
+| Cyberwarfare | Study authorization, uncertainty, and civilian-service continuity in defensive exercises | Established interest |
+| Cyber military selective service | Investigate cyber workforce readiness, demonstrated competencies, governance, and safeguards | Established interest |
+| Cybercrime and international cooperation | Examine evidence handoffs, provenance, and cross-organization coordination | Established interest |
+| Botnets in African contexts | Study measurement coverage, regional context, language, and defensive triage | Established interest |
+| Intelligence and national security | Separate observations, source dependencies, alternative explanations, and judgments | Established interest |
+| AI and agent security | Examine delegated authority, tool access, memory, oversight, and useful authorized behavior | Proposed connected exploration |
+| Security and threat modeling | Study how policy properties, failure scenarios, and implementation evidence inform one another | Proposed connected exploration |
+| Adversarial machine learning | Investigate how manipulation affects a specified security property and legitimate task | Proposed connected exploration |
+| Digital forensics and evidence provenance | Examine how observations remain traceable through collection, transformation, and interpretation | Proposed connected exploration |
+| Critical infrastructure and resilience | Study dependencies, defensive decisions, service continuity, and recovery | Proposed connected exploration |
+| Governance, law, and diplomacy | Examine responsibilities, jurisdiction, oversight, cooperation, and institutional trust | Proposed connected exploration |
+| Human factors, education, and workforce | Study judgment, learning, supervision, team coordination, and demonstrated readiness | Proposed connected exploration |
+| Privacy and responsible information sharing | Study useful evidence exchange with proportionate disclosure and clear authority | Proposed connected exploration |
 
-The [research agenda](research/agenda.md) develops each area. These are interests and study directions, not completed findings or endorsements of a policy.
+These established interests are starting points, not a complete inventory or a fixed set of tracks. A question in one area can create a new line of inquiry in another.
+
+The [connected research map](research/map.md) develops proposed extensions into AI and agent security, adversarial machine learning, security and threat modeling, digital forensics, critical-infrastructure resilience, governance and diplomacy, human factors, privacy, and evidence provenance. These extensions are research directions to investigate, not claims of completed specialization.
+
+For example, botnet measurement can lead to questions about forensic confidence; those questions can lead to cross-border evidence governance and then to the assurance of AI-assisted analysis. The [research agenda](research/agenda.md) describes how to turn those connections into bounded studies.
+
+Mission Assurance Workbench is one current platform direction within this broader program. It does not define the limits of the research interests or require every study to become a workbench feature.
 
 ## Repository boundaries
 

@@ -95,8 +95,12 @@ No autonomous response against third-party systems, personnel profiling, operati
 
 These are sequencing gates, not promised delivery dates or commitments from collaborators.
 
-## Why this fits StephSec
+## Place within StephSec research
 
-The six interests become research lenses on one narrowly testable system rather than six unrelated products. Assurance supplies the evidence discipline; intelligence supplies source and uncertainty analysis; cybercrime cooperation supplies the handoff workflow; regional botnet research supplies coverage and language questions; cyberwarfare supplies defensive continuity scenarios; and selective-service research supplies a future competency and governance study.
+This workbench is one platform hypothesis within an evolving research program. It brings assurance, intelligence analysis, evidence handling, and AI security together where they share a testable problem. Other studies may produce policy analysis, measurement methods, teaching tools, formal models, or separate platforms.
+
+Research can branch in both directions. A failed authorization check can motivate a security-model revision; a provenance gap can motivate forensic research; a useful technical control can expose a usability or governance problem; a regional measurement limitation can change the design of a broader experiment. The [research map](../research/map.md) makes these connections explicit without treating the current platform as a boundary around the research interests.
+
+Potential workbench extensions include privacy-aware evidence release, human approval behavior, resilient incident handoffs, and evaluation of agent decisions under incomplete observations. Each extension needs its own scope, protocol, and evidence before becoming a product claim.
 
 The technical specifications remain in [security-modeling](https://github.com/secsar/security-modeling). Threat scenarios remain in [threat-modeling](https://github.com/secsar/threat-modeling). This repository owns the research questions, experimental design, and evidence interpretation.

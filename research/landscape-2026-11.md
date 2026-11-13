@@ -3,9 +3,9 @@
 **Review date:** 2026-11-13 · **Status:** scoped public-source synthesis and proposed research direction  
 **Method:** inspected the primary project documentation and institutional publications linked below. This is a targeted landscape review, not an exhaustive systematic review or a vendor ranking.
 
-## Research conclusion
+## Opportunity within the broader research program
 
-The strongest direction for StephSec is to investigate **whether an AI-assisted workflow remains useful, authorized, and evidentially defensible when its context, permissions, or dependencies change**. An additional control catalog would overlap substantially with existing projects. A focused assurance workbench can instead connect controls to observations and make unsupported conclusions visible.
+A promising direction for the AI-assurance portion of StephSec research is to investigate **whether an AI-assisted workflow remains useful, authorized, and evidentially defensible when its context, permissions, or dependencies change**. An additional control catalog would overlap substantially with existing projects. A focused assurance workbench can instead connect controls to observations and make unsupported conclusions visible.
 
 That opportunity is an inference from the reviewed material, not a claim that nobody else is working on assurance. The proposed contribution needs to be evaluated against existing benchmarks and products before making novelty claims.
 
@@ -29,7 +29,7 @@ The assessed AIDEFEND repository was active, not archived, and exposed main comm
 - **Threat knowledge now includes agent behavior.** [MITRE ATLAS](https://atlas.mitre.org/) covers AI-related adversary behavior, with agent-oriented techniques such as tool and context poisoning. A static prompt-only evaluation would omit relevant workflow behavior.
 - **A failed attack is not necessarily useful protection.** The October 2026 preprint [Ignored, Not Refused](https://arxiv.org/abs/2610.23254) argues for reporting legitimate task outcomes alongside attack outcomes. Its empirical claims have not been reproduced here, and its preprint status must remain visible. The methodological lesson is to measure both dimensions rather than equate inaction with success.
 
-## Six connected workstreams
+## Connected workstreams for this platform opportunity
 
 | Research interest | Proposed question | Concrete study artifact | Boundary |
 | --- | --- | --- | --- |
@@ -40,7 +40,9 @@ The assessed AIDEFEND repository was active, not archived, and exposed main comm
 | African botnets | How do incomplete telemetry and language affect defensive triage and confidence statements? | Synthetic traffic summaries, sensor-coverage cards, English/French variants | No inference of operator nationality from IP location |
 | Intelligence | Can analysts separate observations, source dependencies, hypotheses, and judgments in AI-assisted products? | Claim ledger, source graph, alternative explanations, confidence rationale | No classified sources or automatic actor attribution |
 
-These workstreams share evidence and authorization mechanics but should remain separate studies with separate success measures. The [existing agenda](agenda.md) remains the broader research plan.
+These examples connect to the platform opportunity; they are not an exhaustive list of research interests. Studies should retain their own questions and success measures rather than being forced into a single product. The [research agenda](agenda.md) and [connected research map](map.md) develop the broader program.
+
+Proposed extensions include adversarial machine learning, digital forensics, privacy-preserving evidence exchange, critical-infrastructure resilience, human-agent interaction, and governance and diplomacy. A result in one workstream may change the assumptions of another: a telemetry gap can challenge an intelligence judgment, which can reveal a new evidence-sharing requirement, which can become a security-modeling question. These are proposed research connections, not additional empirical findings from this landscape review.
 
 ## Grounding the regional and national-security dimensions
 
