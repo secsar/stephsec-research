@@ -42,7 +42,7 @@ The assessed AIDEFEND repository was active, not archived, and exposed main comm
 
 These examples connect to the platform opportunity; they are not an exhaustive list of research interests. Studies should retain their own questions and success measures rather than being forced into a single product. The [research agenda](agenda.md) and [connected research map](map.md) develop the broader program.
 
-Proposed extensions include adversarial machine learning, digital forensics, privacy-preserving evidence exchange, critical-infrastructure resilience, human-agent interaction, and governance and diplomacy. A result in one workstream may change the assumptions of another: a telemetry gap can challenge an intelligence judgment, which can reveal a new evidence-sharing requirement, which can become a security-modeling question. These are proposed research connections, not additional empirical findings from this landscape review.
+Connected areas include adversarial machine learning, digital forensics, privacy-preserving evidence exchange, critical-infrastructure resilience, human-agent interaction, and governance and diplomacy. A result in one workstream may change the assumptions of another: a telemetry gap can challenge an intelligence judgment, which can reveal a new evidence-sharing requirement, which can become a security-modeling question. These relationships help organize inquiry; they are not additional empirical findings from this landscape review.
 
 ## Grounding the regional and national-security dimensions
 

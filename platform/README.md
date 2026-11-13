@@ -97,7 +97,7 @@ These are sequencing gates, not promised delivery dates or commitments from coll
 
 ## Place within StephSec research
 
-This workbench is one platform hypothesis within an evolving research program. It brings assurance, intelligence analysis, evidence handling, and AI security together where they share a testable problem. Other studies may produce policy analysis, measurement methods, teaching tools, formal models, or separate platforms.
+This workbench is one platform hypothesis within an open, connected research program. Its initial scope does not establish a hierarchy among the research interests. It brings assurance, intelligence analysis, evidence handling, and AI security together where they share a testable problem. Other studies may produce policy analysis, measurement methods, teaching tools, formal models, or separate platforms.
 
 Research can branch in both directions. A failed authorization check can motivate a security-model revision; a provenance gap can motivate forensic research; a useful technical control can expose a usability or governance problem; a regional measurement limitation can change the design of a broader experiment. The [research map](../research/map.md) makes these connections explicit without treating the current platform as a boundary around the research interests.
 

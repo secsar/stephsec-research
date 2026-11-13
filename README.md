@@ -34,26 +34,26 @@ The fixture includes English and French descriptions. This demonstrates an evide
 
 ## An evolving, connected research program
 
-| Connected area | Research direction | Agenda position |
-| --- | --- | --- |
-| Cybersecurity assurance | Trace security claims to evidence and distinguish tested behavior from unsupported confidence | Established interest |
-| Cyberwarfare | Study authorization, uncertainty, and civilian-service continuity in defensive exercises | Established interest |
-| Cyber military selective service | Investigate cyber workforce readiness, demonstrated competencies, governance, and safeguards | Established interest |
-| Cybercrime and international cooperation | Examine evidence handoffs, provenance, and cross-organization coordination | Established interest |
-| Botnets in African contexts | Study measurement coverage, regional context, language, and defensive triage | Established interest |
-| Intelligence and national security | Separate observations, source dependencies, alternative explanations, and judgments | Established interest |
-| AI and agent security | Examine delegated authority, tool access, memory, oversight, and useful authorized behavior | Proposed connected exploration |
-| Security and threat modeling | Study how policy properties, failure scenarios, and implementation evidence inform one another | Proposed connected exploration |
-| Adversarial machine learning | Investigate how manipulation affects a specified security property and legitimate task | Proposed connected exploration |
-| Digital forensics and evidence provenance | Examine how observations remain traceable through collection, transformation, and interpretation | Proposed connected exploration |
-| Critical infrastructure and resilience | Study dependencies, defensive decisions, service continuity, and recovery | Proposed connected exploration |
-| Governance, law, and diplomacy | Examine responsibilities, jurisdiction, oversight, cooperation, and institutional trust | Proposed connected exploration |
-| Human factors, education, and workforce | Study judgment, learning, supervision, team coordination, and demonstrated readiness | Proposed connected exploration |
-| Privacy and responsible information sharing | Study useful evidence exchange with proportionate disclosure and clear authority | Proposed connected exploration |
+| Connected area | Research direction |
+| --- | --- |
+| Cybersecurity assurance | Trace security claims to evidence and distinguish tested behavior from unsupported confidence |
+| Cyberwarfare | Study authorization, uncertainty, and civilian-service continuity in defensive exercises |
+| Cyber military selective service | Investigate cyber workforce readiness, demonstrated competencies, governance, and safeguards |
+| Cybercrime and international cooperation | Examine evidence handoffs, provenance, and cross-organization coordination |
+| Botnets in African contexts | Study measurement coverage, regional context, language, and defensive triage |
+| Intelligence and national security | Separate observations, source dependencies, alternative explanations, and judgments |
+| AI and agent security | Examine delegated authority, tool access, memory, oversight, and useful authorized behavior |
+| Security and threat modeling | Study how policy properties, failure scenarios, and implementation evidence inform one another |
+| Adversarial machine learning | Investigate how manipulation affects a specified security property and legitimate task |
+| Digital forensics and evidence provenance | Examine how observations remain traceable through collection, transformation, and interpretation |
+| Critical infrastructure and resilience | Study dependencies, defensive decisions, service continuity, and recovery |
+| Governance, law, and diplomacy | Examine responsibilities, jurisdiction, oversight, cooperation, and institutional trust |
+| Human factors, education, and workforce | Study judgment, learning, supervision, team coordination, and demonstrated readiness |
+| Privacy and responsible information sharing | Study useful evidence exchange with proportionate disclosure and clear authority |
 
-These established interests are starting points, not a complete inventory or a fixed set of tracks. A question in one area can create a new line of inquiry in another.
+These interests and connected questions form an open research program, not a complete inventory or a fixed set of tracks. A question in one area can create a new line of inquiry in another.
 
-The [connected research map](research/map.md) develops proposed extensions into AI and agent security, adversarial machine learning, security and threat modeling, digital forensics, critical-infrastructure resilience, governance and diplomacy, human factors, privacy, and evidence provenance. These extensions are research directions to investigate, not claims of completed specialization.
+The [connected research map](research/map.md) shows relationships across the program, including AI and agent security, adversarial machine learning, security and threat modeling, digital forensics, critical-infrastructure resilience, governance and diplomacy, human factors, privacy, and evidence provenance. Research interests describe questions to pursue; individual study protocols identify what is planned, tested, or supported by findings.
 
 For example, botnet measurement can lead to questions about forensic confidence; those questions can lead to cross-border evidence governance and then to the assurance of AI-assisted analysis. The [research agenda](research/agenda.md) describes how to turn those connections into bounded studies.
 

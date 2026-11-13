@@ -4,7 +4,7 @@
 
 The questions below are starting points within Stéphane Ikoué's evolving research interests. They are not an exhaustive inventory or a fixed set of tracks. One investigation may lead to another, and multiple areas may converge around a shared problem.
 
-The established interests and proposed adjacent explorations are distinguished below. Neither an agenda entry nor a proposed extension is a claim of a funded project, institutional affiliation, completed qualification, or research finding. The [connected research map](map.md) shows how questions can branch and feed back into one another.
+The agenda connects current research interests and related questions without ranking them by how long they have appeared in this repository. Individual studies remain proposals until their methods are carried out; an agenda entry is not a research finding or a claim of funding or affiliation. The [connected research map](map.md) shows how questions can branch and feed back into one another.
 
 ## Cybersecurity assurance
 
@@ -68,9 +68,9 @@ Potential output: a source-evaluation template and a comparative research note.
 
 Main limitation: an explicit method does not eliminate judgment or compensate for missing evidence. No access to classified sources is claimed.
 
-## Proposed adjacent explorations
+## Further connected questions
 
-These directions extend the established agenda where they support a clear research question. They are proposals for inquiry, not a claim that each is already a completed specialization.
+The following questions develop connections across the same research program. Security and threat modeling already have dedicated technical repositories; their role here includes studying how specifications, scenarios, and evidence inform one another. The study designs below remain proposed work until performed.
 
 ### AI and agent security
 
@@ -146,7 +146,7 @@ Connections: forensics, cross-border cooperation, AI security, access control, a
 | Defensive continuity | Which capability or coordination gap affects recovery? | Resilience, workforce readiness, governance |
 | An analytical judgment | Which observation would change the assessment? | Intelligence, provenance, study design |
 
-The relationships are bidirectional: a finding in an adjacent branch may change the assumptions of the originating study.
+The relationships are bidirectional: a finding in one branch may change the assumptions of the originating study.
 
 ## Platforms and other outputs
 

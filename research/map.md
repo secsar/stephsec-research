@@ -1,6 +1,6 @@
 # Connected research map
 
-**Status:** evolving research structure and proposed connections. This is not an exhaustive list of interests, a list of completed studies, or a claim of expertise in every adjacent field.
+**Status:** evolving map of research interests and connected questions. It is not an exhaustive inventory or a list of completed studies.
 
 Research questions can branch, converge, or change as evidence develops. The purpose of this map is to show how a question becomes another useful question while preserving a clear scope for each study.
 
@@ -17,7 +17,7 @@ Research questions can branch, converge, or change as evidence develops. The pur
 | How do defensive decisions affect essential services? | Cyberwarfare ↔ critical infrastructure and resilience | Civilian consequences, dependencies, continuity, and recovery | Recovery exercises can expose modeling and governance gaps |
 | Which capabilities are needed for responsible cyber defense? | Cyber military selective service ↔ workforce and education | Demonstrated skills, supervision, readiness, governance, and safeguards | Exercise findings can challenge training or mobilization assumptions |
 
-The established research interests anchor the map. AI and agent security, adversarial machine learning, digital forensics, resilience, privacy, human factors, and related branches are proposed extensions where they create useful questions. Their appearance does not assert completed qualifications, publications, or professional roles.
+The map connects the research agenda with the technical work already represented in the security-modeling and threat-modeling repositories. AI security, forensics, resilience, privacy, human factors, and other branches can develop wherever the questions and evidence lead. Each study states its own method, progress, and evidentiary limits; inclusion in this map does not stand in for research results.
 
 ## Branching paths
 
